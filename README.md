@@ -1,5 +1,6 @@
 # Elise Droste 
 
-## First website I'm creating
+Just checking out this option to create a website... 
 
-### Please have patience with me 
+The rest will hopefully start appearing soon! 
+
