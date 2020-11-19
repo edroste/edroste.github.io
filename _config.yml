@@ -85,8 +85,8 @@ author:
   bio              : "PhD student interested in marine biogeochemistry and polar regions"
   location         : "University of East Anglia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     : "https://www.researchgate.net/profile/Elise_Droste2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/elise-droste-6bb727ba"
   orcid            : "https://orcid.org/0000-0002-3467-0083"
