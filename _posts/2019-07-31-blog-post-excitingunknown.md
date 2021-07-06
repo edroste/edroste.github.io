@@ -1,7 +1,7 @@
 ---
 title: 'The Exciting Unknown'
 date: 2019-07-31
-permalink: /posts/2019/07/blog-post-2/
+permalink: /posts/2019/07/blog-post-excitingunknown/
 tags:
   - expedition
   - Antarctica

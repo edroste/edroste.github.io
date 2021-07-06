@@ -1,7 +1,7 @@
 ---
 title: 'MOSAiC – Leg 5 – Quarantine Blog'
 date: 2020-07-24
-permalink: /posts/2020/07/blog-post-1/
+permalink: /posts/2020/07/blog-post-quarantineblog/
 tags:
   - expeditions
   - MOSAiC
