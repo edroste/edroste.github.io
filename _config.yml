@@ -32,7 +32,7 @@ comments:
     colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "gh-pages" # "master", "gh-pages" # < 20220603 - ED - Norwich - changed from "gh-pages" to "master" > 
+  branch                 : "gh-pages" # "master", "gh-pages" # < 20220603 - ED - Norwich - changed from "gh-pages" to "master" > 
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
